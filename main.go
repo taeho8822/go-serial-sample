@@ -6,6 +6,7 @@ import (
 	"log"
 )
 
+// 영수증
 func main() {
 	// Set up options.
 	options := serial.OpenOptions{
